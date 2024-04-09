@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+    font-family: cursive;
+    }
+    .header_div{
+    color: orangered;
+    background-color:plum;
+    }
+    .header_div p{
+    font-family:fantasy;
+    color:chartreuse;
+    letter-spacing: 2px;
+    font-size: 18px;
+    }
+    .main_div button{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .footer{
+    position: fixed;
+    bottom: 0;
+    background-color:pink ;
+    color: rgb(63, 15, 252);
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    }
+    .main_div{
+    background-color:lavenderblush;
+    color: blueviolet;
+text-decoration: underline;
+    }
